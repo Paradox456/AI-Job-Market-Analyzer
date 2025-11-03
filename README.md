@@ -65,6 +65,7 @@ Jupyter Notebook · VSCode · Git · GitHub
 ## 2025-11-03
 - Cleaned the dataset
 - Made a new file called ds_salaries_cleaned.csv 
+- Fixed the FileNotFoundError; should have put it in the notebooks section since that was the path
 - Next Steps: Prepare the data for training
 
 
