@@ -56,10 +56,16 @@ venv\Scripts\activate       # Windows
 pip install -r requirements.txt**Tools:**  
 Jupyter Notebook · VSCode · Git · GitHub  
  ```
+
 ## Daily Update
 - Late from work
 - Plan to work on cleaning more of the data
 - Next Steps: Clean data and add it to processed file
+
+## 2025-11-03
+- Cleaned the dataset
+- Made a new file called ds_salaries_cleaned.csv 
+- Next Steps: Prepare the data for training
 
 
 
